@@ -8,3 +8,4 @@
 ### 数组
 
 - [Le001:两数之和](/src/array/TwoSum.java)
+- [Jz57:和为s的两个数字](/src/array/TwoSum1.java)
