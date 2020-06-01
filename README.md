@@ -24,5 +24,5 @@
 
 - [Le094:二叉树中序遍历](/src/tree/InorderTraversal.java)
 - [Le144:二叉树先序遍历](/src/tree/PreorderTraversal.java)
-- [Le145:二叉树后序遍历](/src/tree/Preorder1Traversal.java)
+- [Le145:二叉树后序遍历](/src/tree/Postorder1Traversal.java)
 
