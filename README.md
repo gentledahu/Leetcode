@@ -26,4 +26,6 @@
 - [Le094:二叉树中序遍历](/src/tree/InorderTraversal.java)
 - [Le144:二叉树先序遍历](/src/tree/PreorderTraversal.java)
 - [Le145:二叉树后序遍历](/src/tree/Postorder1Traversal.java)
+- [Le100:相同的树](/src/tree/IsSameTree.java)
+- [Le101:对称二叉树](/src/tree/IsSymmetric.java)
 
