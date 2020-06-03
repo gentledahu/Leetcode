@@ -20,6 +20,7 @@
 - [Le021:合并两个有序链表](/src/linked/MergeTwoLists.java)
 - [Le024:两两交换链表中的节点](/src/linked/SwapPairs.java)
 - [Le025:K个一组反转链表](/src/linked/ReverseKGroup.java)
+- [Le083:删除链表中的重复元素](/src/linked/DeleteDuplicates.java)
 
 ### 二叉树
 
@@ -28,4 +29,5 @@
 - [Le145:二叉树后序遍历](/src/tree/Postorder1Traversal.java)
 - [Le100:相同的树](/src/tree/IsSameTree.java)
 - [Le101:对称二叉树](/src/tree/IsSymmetric.java)
+- [Le096:不同的二叉搜索树](/src/tree/NumTrees.java)
 
