@@ -30,4 +30,6 @@
 - [Le100:相同的树](/src/tree/IsSameTree.java)
 - [Le101:对称二叉树](/src/tree/IsSymmetric.java)
 - [Le096:不同的二叉搜索树](/src/tree/NumTrees.java)
+- [Le102:二叉树的层次遍历](/src/tree/LevelOrder.java)
+- [Le104:二叉树的最大深度](/src/tree/MaxDepth.java)
 
