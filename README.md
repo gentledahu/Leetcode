@@ -32,4 +32,5 @@
 - [Le096:不同的二叉搜索树](/src/tree/NumTrees.java)
 - [Le102:二叉树的层次遍历](/src/tree/LevelOrder.java)
 - [Le104:二叉树的最大深度](/src/tree/MaxDepth.java)
+- [Le110:平衡二叉树](/src/tree/IsBalanced.java)
 
