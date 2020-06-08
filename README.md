@@ -13,6 +13,10 @@
 - [Jz57:和为s的两个数字](/src/array/TwoSum1.java)
 - [Jz29:顺时针打印矩阵](src/array/SpiralOrder.java)
 
+### hash
+
+- [Jz03:数组中重复数字](/src/array/FindRepeatNumber.java)
+
 ### 链表
 
 - [Le206:链表反转](/src/linked/ReverseList.java)
