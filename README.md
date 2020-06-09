@@ -12,6 +12,7 @@
 - [Le001:两数之和](/src/array/TwoSum.java)
 - [Jz57:和为s的两个数字](/src/array/TwoSum1.java)
 - [Jz29:顺时针打印矩阵](src/array/SpiralOrder.java)
+- [Jz04:二维数组中的查找](/src/array/FindNumberIn2DArray.java)
 
 ### hash
 
