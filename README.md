@@ -27,6 +27,7 @@
 - [Le024:两两交换链表中的节点](/src/linked/SwapPairs.java)
 - [Le025:K个一组反转链表](/src/linked/ReverseKGroup.java)
 - [Le083:删除链表中的重复元素](/src/linked/DeleteDuplicates.java)
+- [Le203:移出链表元素](/src/linked/RemoveElements.java)
 
 ### 二叉树
 
@@ -44,7 +45,7 @@
 
 - [Le509:斐波那契数](/src/recur/Fib.java)
 
-###排序
+### 排序
 
 - [Jz40:最小的k个数](/src/sort/GetLeastNumbers.java)
 
