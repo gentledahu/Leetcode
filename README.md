@@ -58,3 +58,7 @@
 
 - [Jz12:矩阵中的路径](/src/huisu/Exist.java)
 
+### 二分查找
+
+- [Jz11旋转数组中的最小数字](/src/array/MinArray.java)
+
