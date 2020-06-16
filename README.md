@@ -57,6 +57,7 @@
 ### 回溯
 
 - [Jz12:矩阵中的路径](/src/huisu/Exist.java)
+- [Jz13:机器人运动范围](/src/huisu/movingCount.java)
 
 ### 二分查找
 
