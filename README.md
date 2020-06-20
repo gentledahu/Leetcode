@@ -69,3 +69,7 @@
 
 - [Le:最长公共前缀](/src/string/longestCommonPrefix.java)
 
+### 栈
+
+- [Jz31:栈的压入弹出顺序](/src/stack/validateStackSequences.java)
+
