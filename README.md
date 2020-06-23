@@ -41,6 +41,7 @@
 - [Le104:二叉树的最大深度](/src/tree/MaxDepth.java)
 - [Le110:平衡二叉树](/src/tree/IsBalanced.java)
 - [Jz26:树的子结构](/src/tree/isSubStructure.java)
+- [Jz34:二叉树中和为某一值的路径](/src/tree/pathSum.java)
 
 ### 递归
 
