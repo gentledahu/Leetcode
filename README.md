@@ -64,6 +64,10 @@
 - [Jz13:机器人运动范围](/src/huisu/movingCount.java)
 - [Jz38:字符串的排列](/src/huisu/permutation.java)
 
+#### 动态规划
+
+[Le53:连续子数组的最大和](/src/donggui/maxSubArray.java)
+
 ### 二分查找
 
 - [Jz11旋转数组中的最小数字](/src/array/MinArray.java)
