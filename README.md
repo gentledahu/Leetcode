@@ -50,6 +50,7 @@
 ### 排序
 
 - [Jz40:最小的k个数](/src/sort/GetLeastNumbers.java)
+- [Le347:前k个高频元素](/src/sort/topKFrequent.java)
 
 ### 双指针
 
