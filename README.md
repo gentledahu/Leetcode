@@ -28,6 +28,7 @@
 - [Le025:K个一组反转链表](/src/linked/ReverseKGroup.java)
 - [Le083:删除链表中的重复元素](/src/linked/DeleteDuplicates.java)
 - [Le203:移出链表元素](/src/linked/RemoveElements.java)
+- [面试题02.01移出重复结点](/src/linked/removeDuplicateNodes.java)
 
 ### 二叉树
 
