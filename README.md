@@ -78,6 +78,7 @@
 ### 字符串
 
 - [Le:最长公共前缀](/src/string/longestCommonPrefix.java)
+- [Le08:把字符串转化为整数](/src/string/strToInt.java)
 
 ### 栈
 
