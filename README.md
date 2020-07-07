@@ -44,6 +44,7 @@
 - [Jz26:树的子结构](/src/tree/isSubStructure.java)
 - [Jz34:二叉树中和为某一值的路径](/src/tree/pathSum.java)
 - [Jz:68二叉树最近公共祖先](/src/tree/lowestCommonAncestor.java)
+- [Le112:路径总和](/src/tree/hasPathSum.java)
 
 ### 递归
 
