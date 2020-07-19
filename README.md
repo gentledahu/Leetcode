@@ -86,6 +86,7 @@
 ### 栈
 
 - [Jz31:栈的压入弹出顺序](/src/stack/validateStackSequences.java)
+- [Le20:有效括号](/src/stack/isValid.java)
 
 ### 队列
 
