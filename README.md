@@ -92,3 +92,7 @@
 
 - [Le239:滑动窗口的最大值](/src/queue/maxSlidingWindow.java)
 
+### 贪心
+
+- [Le670:最大交换](/src/tanxin/maximumSwap.java)
+
