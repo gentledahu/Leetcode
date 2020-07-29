@@ -66,6 +66,7 @@
 - [Jz12:矩阵中的路径](/src/huisu/Exist.java)
 - [Jz13:机器人运动范围](/src/huisu/movingCount.java)
 - [Jz38:字符串的排列](/src/huisu/permutation.java)
+- [Le46:全排列](/src/huisu/permute.java)
 
 #### 动态规划
 
